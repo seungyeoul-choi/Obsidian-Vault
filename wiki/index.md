@@ -23,7 +23,9 @@ tags:
 
 ## Sources
 
-아직 처리된 원천 자료가 없다.
+- [[2026-08-21-kafka-introduction|Kafka Introduction]]: Kafka와 event streaming의 기본 개념
+- [[2026-08-21-kafka-design|Kafka Design]]: Kafka 저장소, batching, consumer, replication, compaction 설계
+- [[2026-08-21-kafka-kraft-vs-zookeeper|Kafka KRaft vs ZooKeeper]]: KRaft mode와 ZooKeeper mode의 운영 차이
 
 ## Concepts
 
@@ -32,7 +34,13 @@ tags:
 - [[Spring Boot]]: 백엔드 애플리케이션 프레임워크
 - [[MySQL]]: 주문 데이터 저장소 후보 지식 축
 - [[Redis]]: 캐시, 분산 락, 임시 상태 저장
-- [[Kafka]]: 이벤트 기반 처리와 비동기 메시징
+- [[Kafka]]: 이벤트 기반 처리와 비동기 메시징 플랫폼
+- [[Kafka 브로커]]: topic partition log를 저장하고 producer/consumer 요청을 처리하는 서버
+- [[Kafka 토픽과 파티션]]: Kafka의 저장, 순서 보장, 병렬 처리 단위
+- [[Kafka Consumer Group]]: partition을 여러 consumer가 나누어 처리하는 확장 모델
+- [[Kafka 전달 보장]]: at-most-once, at-least-once, exactly-once 설계 기준
+- [[KRaft]]: ZooKeeper 없는 Kafka metadata 관리 mode
+- [[ZooKeeper]]: 과거 Kafka cluster coordination에 쓰인 외부 시스템
 - [[Kubernetes]]: 컨테이너 오케스트레이션과 배포 운영
 
 ## Projects

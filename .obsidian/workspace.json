@@ -13,22 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "raw/articles/Kafka Connect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "Kafka Connect"
             }
-          }
-        ]
-      },
-      {
-        "id": "8d405f57c5b0811f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bd44725259d5aea8",
+            "id": "b249dd6641ed6bcd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "cf51495cba7ec035",
@@ -115,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGENTS.md",
+                "file": "raw/articles/Kafka Connect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGENTS.md",
+                "file": "raw/articles/Kafka Connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGENTS.md",
+                "file": "raw/articles/Kafka Connect.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,6 +201,24 @@
   },
   "active": "0b8f90ed127bb42e",
   "lastOpenFiles": [
+    "wiki/concepts/Kafka 토픽과 파티션.md",
+    "raw/articles/Kafka Connect.md",
+    "wiki/concepts/주문 처리 시스템.md",
+    "raw/articles/KRaft vs ZooKeeper.md",
+    "raw/articles/Introduction.md",
+    "raw/articles/Design.md",
+    "wiki/concepts/Kafka 브로커.md",
+    "wiki/concepts/Kafka.md",
+    "wiki/concepts/Kafka 전달 보장.md",
+    "wiki/concepts/Kafka Consumer Group.md",
+    "wiki/concepts/ZooKeeper.md",
+    "wiki/concepts/KRaft.md",
+    "wiki/sources/2026-08-21-kafka-kraft-vs-zookeeper.md",
+    "wiki/sources/2026-08-21-kafka-design.md",
+    "wiki/sources/2026-08-21-kafka-introduction.md",
+    "_attachments/Pasted image 20260821144250.png",
+    "_attachments",
+    "AGENTS.md",
     "wiki/syntheses",
     "wiki/questions",
     "wiki/entities",
@@ -218,29 +230,13 @@
     "wiki/projects/주문 처리 시스템 최적화.md",
     "wiki/projects",
     "wiki/concepts/Kubernetes.md",
-    "wiki/concepts/Kafka.md",
     "wiki/concepts/Redis.md",
     "wiki/concepts/MySQL.md",
     "wiki/concepts/Spring Boot.md",
     "wiki/concepts/성능 최적화.md",
-    "wiki/concepts/주문 처리 시스템.md",
     "wiki/concepts",
     "wiki/moc/Learning MOC.md",
-    "wiki/moc/Projects MOC.md",
-    "wiki/moc/Infra MOC.md",
-    "wiki/moc/Data MOC.md",
-    "wiki/moc/Backend MOC.md",
-    "wiki/moc/Home MOC.md",
     "wiki/moc",
-    "wiki/overview.md",
-    "wiki/log.md",
-    "wiki/index.md",
-    "wiki",
-    "raw/assets",
-    "raw/meetings",
-    "환영합니다!.md",
-    "AGENTS.md",
-    "파이썬 노트.md",
-    "개발 노트.md"
+    "wiki"
   ]
 }
